@@ -42,14 +42,4 @@ dio-memory-game/
         └── reset.css
 ```
 
-## Regras do Jogo
 
-- Clique em uma carta para revelá-la
-- Clique em uma segunda carta para tentar formar um par
-- Se as cartas forem iguais, elas permanecerão viradas
-- Se forem diferentes, ambas voltarão a ficar viradas após um breve momento
-- Continue até encontrar todos os pares
-
-## Autor
-
-Desenvolvido como projeto educacional da Digital Innovation One (DIO).
